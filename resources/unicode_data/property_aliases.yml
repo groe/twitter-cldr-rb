@@ -140,8 +140,8 @@ GCB:
 hst:
   :long_name: Hangul_Syllable_Type
   :additional: []
-InMC:
-  :long_name: Indic_Matra_Category
+InPC:
+  :long_name: Indic_Positional_Category
   :additional: []
 InSC:
   :long_name: Indic_Syllabic_Category

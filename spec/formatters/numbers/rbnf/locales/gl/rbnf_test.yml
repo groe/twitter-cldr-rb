@@ -1,1536 +1,1536 @@
 ---
 SpelloutRules:
-  spellout-ordinal-feminine:
-    -1141: menos milésima centésima cuadragésima primera
-    -1142: menos milésima centésima cuadragésima segunda
-    -1143: menos milésima centésima cuadragésima tercera
-    -100: menos centésima
-    -75: menos septuagésima quinta
-    -50: menos quincuagésima
-    -24: menos vigésima cuarta
-    0: cero
-    1: primera
-    2: segunda
-    3: tercera
-    4: cuarta
-    5: quinta
-    6: sexta
-    7: séptima
-    8: octava
-    9: novena
-    10: décima
-    11: decimoprimera
-    12: decimosegunda
-    13: decimotercera
-    14: decimocuarta
-    15: decimoquinta
-    16: decimosexta
-    17: decimoséptima
-    18: decimoctava
-    19: decimonovena
-    20: vigésima
-    21: vigésima primera
-    22: vigésima segunda
-    23: vigésima tercera
-    24: vigésima cuarta
-    25: vigésima quinta
-    26: vigésima sexta
-    27: vigésima séptima
-    28: vigésima octava
-    29: vigésima novena
-    30: trigésima
-    31: trigésima primera
-    32: trigésima segunda
-    33: trigésima tercera
-    34: trigésima cuarta
-    35: trigésima quinta
-    36: trigésima sexta
-    37: trigésima séptima
-    38: trigésima octava
-    39: trigésima novena
-    40: cuadragésima
-    41: cuadragésima primera
-    42: cuadragésima segunda
-    43: cuadragésima tercera
-    44: cuadragésima cuarta
-    45: cuadragésima quinta
-    46: cuadragésima sexta
-    47: cuadragésima séptima
-    48: cuadragésima octava
-    49: cuadragésima novena
-    50: quincuagésima
-    51: quincuagésima primera
-    52: quincuagésima segunda
-    53: quincuagésima tercera
-    54: quincuagésima cuarta
-    55: quincuagésima quinta
-    56: quincuagésima sexta
-    57: quincuagésima séptima
-    58: quincuagésima octava
-    59: quincuagésima novena
-    60: sexagésima
-    61: sexagésima primera
-    62: sexagésima segunda
-    63: sexagésima tercera
-    64: sexagésima cuarta
-    65: sexagésima quinta
-    66: sexagésima sexta
-    67: sexagésima séptima
-    68: sexagésima octava
-    69: sexagésima novena
-    70: septuagésima
-    71: septuagésima primera
-    72: septuagésima segunda
-    73: septuagésima tercera
-    74: septuagésima cuarta
-    75: septuagésima quinta
-    76: septuagésima sexta
-    77: septuagésima séptima
-    78: septuagésima octava
-    79: septuagésima novena
-    80: octogésima
-    81: octogésima primera
-    82: octogésima segunda
-    83: octogésima tercera
-    84: octogésima cuarta
-    85: octogésima quinta
-    86: octogésima sexta
-    87: octogésima séptima
-    88: octogésima octava
-    89: octogésima novena
-    90: nonagésima
-    91: nonagésima primera
-    92: nonagésima segunda
-    93: nonagésima tercera
-    94: nonagésima cuarta
-    95: nonagésima quinta
-    96: nonagésima sexta
-    97: nonagésima séptima
-    98: nonagésima octava
-    99: nonagésima novena
-    100: centésima
-    321: tricentésima vigésima primera
-    322: tricentésima vigésima segunda
-    323: tricentésima vigésima tercera
-    1141: milésima centésima cuadragésima primera
-    1142: milésima centésima cuadragésima segunda
-    1143: milésima centésima cuadragésima tercera
-    10311: diez milésima tricentésima decimoprimera
-    138400: ciento treinta y ocho milésima cuadringentésima
-  spellout-ordinal-feminine-plural:
-    -1141: menos milésima centésima cuadragésima primeras
-    -1142: menos milésima centésima cuadragésima segundas
-    -1143: menos milésima centésima cuadragésima terceras
-    -100: menos centésimas
-    -75: menos septuagésima quintas
-    -50: menos quincuagésimas
-    -24: menos vigésima cuartas
-    0: cero
-    1: primeras
-    2: segundas
-    3: terceras
-    4: cuartas
-    5: quintas
-    6: sextas
-    7: séptimas
-    8: octavas
-    9: novenas
-    10: décimas
-    11: decimoprimeras
-    12: decimosegundas
-    13: decimoterceras
-    14: decimocuartas
-    15: decimoquintas
-    16: decimosextas
-    17: decimoséptimas
-    18: decimoctavas
-    19: decimonovenas
-    20: vigésimas
-    21: vigésima primeras
-    22: vigésima segundas
-    23: vigésima terceras
-    24: vigésima cuartas
-    25: vigésima quintas
-    26: vigésima sextas
-    27: vigésima séptimas
-    28: vigésima octavas
-    29: vigésima novenas
-    30: trigésimas
-    31: trigésima primeras
-    32: trigésima segundas
-    33: trigésima terceras
-    34: trigésima cuartas
-    35: trigésima quintas
-    36: trigésima sextas
-    37: trigésima séptimas
-    38: trigésima octavas
-    39: trigésima novenas
-    40: cuadragésimas
-    41: cuadragésima primeras
-    42: cuadragésima segundas
-    43: cuadragésima terceras
-    44: cuadragésima cuartas
-    45: cuadragésima quintas
-    46: cuadragésima sextas
-    47: cuadragésima séptimas
-    48: cuadragésima octavas
-    49: cuadragésima novenas
-    50: quincuagésimas
-    51: quincuagésima primeras
-    52: quincuagésima segundas
-    53: quincuagésima terceras
-    54: quincuagésima cuartas
-    55: quincuagésima quintas
-    56: quincuagésima sextas
-    57: quincuagésima séptimas
-    58: quincuagésima octavas
-    59: quincuagésima novenas
-    60: sexagésimas
-    61: sexagésima primeras
-    62: sexagésima segundas
-    63: sexagésima terceras
-    64: sexagésima cuartas
-    65: sexagésima quintas
-    66: sexagésima sextas
-    67: sexagésima séptimas
-    68: sexagésima octavas
-    69: sexagésima novenas
-    70: septuagésimas
-    71: septuagésima primeras
-    72: septuagésima segundas
-    73: septuagésima terceras
-    74: septuagésima cuartas
-    75: septuagésima quintas
-    76: septuagésima sextas
-    77: septuagésima séptimas
-    78: septuagésima octavas
-    79: septuagésima novenas
-    80: octogésimas
-    81: octogésima primeras
-    82: octogésima segundas
-    83: octogésima terceras
-    84: octogésima cuartas
-    85: octogésima quintas
-    86: octogésima sextas
-    87: octogésima séptimas
-    88: octogésima octavas
-    89: octogésima novenas
-    90: nonagésimas
-    91: nonagésima primeras
-    92: nonagésima segundas
-    93: nonagésima terceras
-    94: nonagésima cuartas
-    95: nonagésima quintas
-    96: nonagésima sextas
-    97: nonagésima séptimas
-    98: nonagésima octavas
-    99: nonagésima novenas
-    100: centésimas
-    321: tricentésima vigésima primeras
-    322: tricentésima vigésima segundas
-    323: tricentésima vigésima terceras
-    1141: milésima centésima cuadragésima primeras
-    1142: milésima centésima cuadragésima segundas
-    1143: milésima centésima cuadragésima terceras
-    10311: diez milésima tricentésima decimoprimeras
-    138400: ciento treinta y ocho milésima cuadringentésimas
-  spellout-ordinal-masculine:
-    -1141: menos milésimo centésimo cuadragésimo primero
-    -1142: menos milésimo centésimo cuadragésimo segundo
-    -1143: menos milésimo centésimo cuadragésimo tercero
-    -100: menos centésimo
-    -75: menos septuagésimo quinto
-    -50: menos quincuagésimo
-    -24: menos vigésimo cuarto
-    0: cero
-    1: primero
-    2: segundo
-    3: tercero
-    4: cuarto
-    5: quinto
-    6: sexto
-    7: séptimo
-    8: octavo
-    9: noveno
-    10: décimo
-    11: decimoprimero
-    12: decimosegundo
-    13: decimotercero
-    14: decimocuarto
-    15: decimoquinto
-    16: decimosexto
-    17: decimoséptimo
-    18: decimoctavo
-    19: decimonoveno
-    20: vigésimo
-    21: vigésimo primero
-    22: vigésimo segundo
-    23: vigésimo tercero
-    24: vigésimo cuarto
-    25: vigésimo quinto
-    26: vigésimo sexto
-    27: vigésimo séptimo
-    28: vigésimo octavo
-    29: vigésimo noveno
-    30: trigésimo
-    31: trigésimo primero
-    32: trigésimo segundo
-    33: trigésimo tercero
-    34: trigésimo cuarto
-    35: trigésimo quinto
-    36: trigésimo sexto
-    37: trigésimo séptimo
-    38: trigésimo octavo
-    39: trigésimo noveno
-    40: cuadragésimo
-    41: cuadragésimo primero
-    42: cuadragésimo segundo
-    43: cuadragésimo tercero
-    44: cuadragésimo cuarto
-    45: cuadragésimo quinto
-    46: cuadragésimo sexto
-    47: cuadragésimo séptimo
-    48: cuadragésimo octavo
-    49: cuadragésimo noveno
-    50: quincuagésimo
-    51: quincuagésimo primero
-    52: quincuagésimo segundo
-    53: quincuagésimo tercero
-    54: quincuagésimo cuarto
-    55: quincuagésimo quinto
-    56: quincuagésimo sexto
-    57: quincuagésimo séptimo
-    58: quincuagésimo octavo
-    59: quincuagésimo noveno
-    60: sexagésimo
-    61: sexagésimo primero
-    62: sexagésimo segundo
-    63: sexagésimo tercero
-    64: sexagésimo cuarto
-    65: sexagésimo quinto
-    66: sexagésimo sexto
-    67: sexagésimo séptimo
-    68: sexagésimo octavo
-    69: sexagésimo noveno
-    70: septuagésimo
-    71: septuagésimo primero
-    72: septuagésimo segundo
-    73: septuagésimo tercero
-    74: septuagésimo cuarto
-    75: septuagésimo quinto
-    76: septuagésimo sexto
-    77: septuagésimo séptimo
-    78: septuagésimo octavo
-    79: septuagésimo noveno
-    80: octogésimo
-    81: octogésimo primero
-    82: octogésimo segundo
-    83: octogésimo tercero
-    84: octogésimo cuarto
-    85: octogésimo quinto
-    86: octogésimo sexto
-    87: octogésimo séptimo
-    88: octogésimo octavo
-    89: octogésimo noveno
-    90: nonagésimo
-    91: nonagésimo primero
-    92: nonagésimo segundo
-    93: nonagésimo tercero
-    94: nonagésimo cuarto
-    95: nonagésimo quinto
-    96: nonagésimo sexto
-    97: nonagésimo séptimo
-    98: nonagésimo octavo
-    99: nonagésimo noveno
-    100: centésimo
-    321: tricentésimo vigésimo primero
-    322: tricentésimo vigésimo segundo
-    323: tricentésimo vigésimo tercero
-    1141: milésimo centésimo cuadragésimo primero
-    1142: milésimo centésimo cuadragésimo segundo
-    1143: milésimo centésimo cuadragésimo tercero
-    10311: diez milésimo tricentésimo decimoprimero
-    138400: ciento treinta y ocho milésimo cuadringentésimo
-  spellout-ordinal-masculine-plural:
-    -1141: menos milésimo centésimo cuadragésimo primeros
-    -1142: menos milésimo centésimo cuadragésimo segundos
-    -1143: menos milésimo centésimo cuadragésimo terceros
-    -100: menos centésimos
-    -75: menos septuagésimo quintos
-    -50: menos quincuagésimos
-    -24: menos vigésimo cuartos
-    0: cero
-    1: primeros
-    2: segundos
-    3: terceros
-    4: cuartos
-    5: quintos
-    6: sextos
-    7: séptimos
-    8: octavos
-    9: novenos
-    10: décimos
-    11: decimoprimeros
-    12: decimosegundos
-    13: decimoterceros
-    14: decimocuartos
-    15: decimoquintos
-    16: decimosextos
-    17: decimoséptimos
-    18: decimoctavos
-    19: decimonovenos
-    20: vigésimos
-    21: vigésimo primeros
-    22: vigésimo segundos
-    23: vigésimo terceros
-    24: vigésimo cuartos
-    25: vigésimo quintos
-    26: vigésimo sextos
-    27: vigésimo séptimos
-    28: vigésimo octavos
-    29: vigésimo novenos
-    30: trigésimos
-    31: trigésimo primeros
-    32: trigésimo segundos
-    33: trigésimo terceros
-    34: trigésimo cuartos
-    35: trigésimo quintos
-    36: trigésimo sextos
-    37: trigésimo séptimos
-    38: trigésimo octavos
-    39: trigésimo novenos
-    40: cuadragésimos
-    41: cuadragésimo primeros
-    42: cuadragésimo segundos
-    43: cuadragésimo terceros
-    44: cuadragésimo cuartos
-    45: cuadragésimo quintos
-    46: cuadragésimo sextos
-    47: cuadragésimo séptimos
-    48: cuadragésimo octavos
-    49: cuadragésimo novenos
-    50: quincuagésimos
-    51: quincuagésimo primeros
-    52: quincuagésimo segundos
-    53: quincuagésimo terceros
-    54: quincuagésimo cuartos
-    55: quincuagésimo quintos
-    56: quincuagésimo sextos
-    57: quincuagésimo séptimos
-    58: quincuagésimo octavos
-    59: quincuagésimo novenos
-    60: sexagésimos
-    61: sexagésimo primeros
-    62: sexagésimo segundos
-    63: sexagésimo terceros
-    64: sexagésimo cuartos
-    65: sexagésimo quintos
-    66: sexagésimo sextos
-    67: sexagésimo séptimos
-    68: sexagésimo octavos
-    69: sexagésimo novenos
-    70: septuagésimos
-    71: septuagésimo primeros
-    72: septuagésimo segundos
-    73: septuagésimo terceros
-    74: septuagésimo cuartos
-    75: septuagésimo quintos
-    76: septuagésimo sextos
-    77: septuagésimo séptimos
-    78: septuagésimo octavos
-    79: septuagésimo novenos
-    80: octogésimos
-    81: octogésimo primeros
-    82: octogésimo segundos
-    83: octogésimo terceros
-    84: octogésimo cuartos
-    85: octogésimo quintos
-    86: octogésimo sextos
-    87: octogésimo séptimos
-    88: octogésimo octavos
-    89: octogésimo novenos
-    90: nonagésimos
-    91: nonagésimo primeros
-    92: nonagésimo segundos
-    93: nonagésimo terceros
-    94: nonagésimo cuartos
-    95: nonagésimo quintos
-    96: nonagésimo sextos
-    97: nonagésimo séptimos
-    98: nonagésimo octavos
-    99: nonagésimo novenos
-    100: centésimos
-    321: tricentésimo vigésimo primeros
-    322: tricentésimo vigésimo segundos
-    323: tricentésimo vigésimo terceros
-    1141: milésimo centésimo cuadragésimo primeros
-    1142: milésimo centésimo cuadragésimo segundos
-    1143: milésimo centésimo cuadragésimo terceros
-    10311: diez milésimo tricentésimo decimoprimeros
-    138400: ciento treinta y ocho milésimo cuadringentésimos
-  spellout-ordinal-masculine-adjective:
-    -1141: menos milésimo centésimo cuadragésimo primer
-    -1142: menos milésimo centésimo cuadragésimo segundo
-    -1143: menos milésimo centésimo cuadragésimo tercer
-    -100: menos centésimo
-    -75: menos septuagésimo quinto
-    -50: menos quincuagésimo
-    -24: menos vigésimo cuarto
-    0: cero
-    1: primer
-    2: segundo
-    3: tercer
-    4: cuarto
-    5: quinto
-    6: sexto
-    7: séptimo
-    8: octavo
-    9: noveno
-    10: décimo
-    11: undécimo
-    12: duodécimo
-    13: decimotercer
-    14: decimocuarto
-    15: decimoquinto
-    16: decimosexto
-    17: decimoséptimo
-    18: decimoctavo
-    19: decimonoveno
-    20: vigésimo
-    21: vigésimo primer
-    22: vigésimo segundo
-    23: vigésimo tercer
-    24: vigésimo cuarto
-    25: vigésimo quinto
-    26: vigésimo sexto
-    27: vigésimo séptimo
-    28: vigésimo octavo
-    29: vigésimo noveno
-    30: trigésimo
-    31: trigésimo primer
-    32: trigésimo segundo
-    33: trigésimo tercer
-    34: trigésimo cuarto
-    35: trigésimo quinto
-    36: trigésimo sexto
-    37: trigésimo séptimo
-    38: trigésimo octavo
-    39: trigésimo noveno
-    40: cuadragésimo
-    41: cuadragésimo primer
-    42: cuadragésimo segundo
-    43: cuadragésimo tercer
-    44: cuadragésimo cuarto
-    45: cuadragésimo quinto
-    46: cuadragésimo sexto
-    47: cuadragésimo séptimo
-    48: cuadragésimo octavo
-    49: cuadragésimo noveno
-    50: quincuagésimo
-    51: quincuagésimo primer
-    52: quincuagésimo segundo
-    53: quincuagésimo tercer
-    54: quincuagésimo cuarto
-    55: quincuagésimo quinto
-    56: quincuagésimo sexto
-    57: quincuagésimo séptimo
-    58: quincuagésimo octavo
-    59: quincuagésimo noveno
-    60: sexagésimo
-    61: sexagésimo primer
-    62: sexagésimo segundo
-    63: sexagésimo tercer
-    64: sexagésimo cuarto
-    65: sexagésimo quinto
-    66: sexagésimo sexto
-    67: sexagésimo séptimo
-    68: sexagésimo octavo
-    69: sexagésimo noveno
-    70: septuagésimo
-    71: septuagésimo primer
-    72: septuagésimo segundo
-    73: septuagésimo tercer
-    74: septuagésimo cuarto
-    75: septuagésimo quinto
-    76: septuagésimo sexto
-    77: septuagésimo séptimo
-    78: septuagésimo octavo
-    79: septuagésimo noveno
-    80: octogésimo
-    81: octogésimo primer
-    82: octogésimo segundo
-    83: octogésimo tercer
-    84: octogésimo cuarto
-    85: octogésimo quinto
-    86: octogésimo sexto
-    87: octogésimo séptimo
-    88: octogésimo octavo
-    89: octogésimo noveno
-    90: nonagésimo
-    91: nonagésimo primer
-    92: nonagésimo segundo
-    93: nonagésimo tercer
-    94: nonagésimo cuarto
-    95: nonagésimo quinto
-    96: nonagésimo sexto
-    97: nonagésimo séptimo
-    98: nonagésimo octavo
-    99: nonagésimo noveno
-    100: centésimo
-    321: tricentésimo vigésimo primer
-    322: tricentésimo vigésimo segundo
-    323: tricentésimo vigésimo tercer
-    1141: milésimo centésimo cuadragésimo primer
-    1142: milésimo centésimo cuadragésimo segundo
-    1143: milésimo centésimo cuadragésimo tercer
-    10311: diez milésimo tricentésimo undécimo
-    138400: ciento treinta y ocho milésimo cuadringentésimo
+  spellout-ordinal-s:
+    -1141: minus ein­tausend­ein­hundert­ein­und­vierzigstes
+    -1142: minus ein­tausend­ein­hundert­zwei­und­vierzigstes
+    -1143: minus ein­tausend­ein­hundert­drei­und­vierzigstes
+    -100: minus ein­hundertstes
+    -75: minus fünf­und­siebzigstes
+    -50: minus fünfzigstes
+    -24: minus vier­und­zwanzigstes
+    0: nulltes
+    1: erstes
+    2: zweites
+    3: drittes
+    4: viertes
+    5: fünftes
+    6: sechstes
+    7: siebtes
+    8: achtes
+    9: neuntes
+    10: zehntes
+    11: elftes
+    12: zwölftes
+    13: dreizehntes
+    14: vierzehntes
+    15: fünfzehntes
+    16: sechzehntes
+    17: siebzehntes
+    18: achtzehntes
+    19: neunzehntes
+    20: zwanzigstes
+    21: ein­und­zwanzigstes
+    22: zwei­und­zwanzigstes
+    23: drei­und­zwanzigstes
+    24: vier­und­zwanzigstes
+    25: fünf­und­zwanzigstes
+    26: sechs­und­zwanzigstes
+    27: sieben­und­zwanzigstes
+    28: acht­und­zwanzigstes
+    29: neun­und­zwanzigstes
+    30: dreißigstes
+    31: ein­und­dreißigstes
+    32: zwei­und­dreißigstes
+    33: drei­und­dreißigstes
+    34: vier­und­dreißigstes
+    35: fünf­und­dreißigstes
+    36: sechs­und­dreißigstes
+    37: sieben­und­dreißigstes
+    38: acht­und­dreißigstes
+    39: neun­und­dreißigstes
+    40: vierzigstes
+    41: ein­und­vierzigstes
+    42: zwei­und­vierzigstes
+    43: drei­und­vierzigstes
+    44: vier­und­vierzigstes
+    45: fünf­und­vierzigstes
+    46: sechs­und­vierzigstes
+    47: sieben­und­vierzigstes
+    48: acht­und­vierzigstes
+    49: neun­und­vierzigstes
+    50: fünfzigstes
+    51: ein­und­fünfzigstes
+    52: zwei­und­fünfzigstes
+    53: drei­und­fünfzigstes
+    54: vier­und­fünfzigstes
+    55: fünf­und­fünfzigstes
+    56: sechs­und­fünfzigstes
+    57: sieben­und­fünfzigstes
+    58: acht­und­fünfzigstes
+    59: neun­und­fünfzigstes
+    60: sechzigstes
+    61: ein­und­sechzigstes
+    62: zwei­und­sechzigstes
+    63: drei­und­sechzigstes
+    64: vier­und­sechzigstes
+    65: fünf­und­sechzigstes
+    66: sechs­und­sechzigstes
+    67: sieben­und­sechzigstes
+    68: acht­und­sechzigstes
+    69: neun­und­sechzigstes
+    70: siebzigstes
+    71: ein­und­siebzigstes
+    72: zwei­und­siebzigstes
+    73: drei­und­siebzigstes
+    74: vier­und­siebzigstes
+    75: fünf­und­siebzigstes
+    76: sechs­und­siebzigstes
+    77: sieben­und­siebzigstes
+    78: acht­und­siebzigstes
+    79: neun­und­siebzigstes
+    80: achtzigstes
+    81: ein­und­achtzigstes
+    82: zwei­und­achtzigstes
+    83: drei­und­achtzigstes
+    84: vier­und­achtzigstes
+    85: fünf­und­achtzigstes
+    86: sechs­und­achtzigstes
+    87: sieben­und­achtzigstes
+    88: acht­und­achtzigstes
+    89: neun­und­achtzigstes
+    90: neunzigstes
+    91: ein­und­neunzigstes
+    92: zwei­und­neunzigstes
+    93: drei­und­neunzigstes
+    94: vier­und­neunzigstes
+    95: fünf­und­neunzigstes
+    96: sechs­und­neunzigstes
+    97: sieben­und­neunzigstes
+    98: acht­und­neunzigstes
+    99: neun­und­neunzigstes
+    100: ein­hundertstes
+    321: drei­hundert­ein­und­zwanzigstes
+    322: drei­hundert­zwei­und­zwanzigstes
+    323: drei­hundert­drei­und­zwanzigstes
+    1141: ein­tausend­ein­hundert­ein­und­vierzigstes
+    1142: ein­tausend­ein­hundert­zwei­und­vierzigstes
+    1143: ein­tausend­ein­hundert­drei­und­vierzigstes
+    10311: zehn­tausend­drei­hundert­elftes
+    138400: ein­hundert­acht­und­dreißig­tausend­vier­hundertstes
+  spellout-ordinal-r:
+    -1141: minus ein­tausend­ein­hundert­ein­und­vierzigster
+    -1142: minus ein­tausend­ein­hundert­zwei­und­vierzigster
+    -1143: minus ein­tausend­ein­hundert­drei­und­vierzigster
+    -100: minus ein­hundertster
+    -75: minus fünf­und­siebzigster
+    -50: minus fünfzigster
+    -24: minus vier­und­zwanzigster
+    0: nullter
+    1: erster
+    2: zweiter
+    3: dritter
+    4: vierter
+    5: fünfter
+    6: sechster
+    7: siebter
+    8: achter
+    9: neunter
+    10: zehnter
+    11: elfter
+    12: zwölfter
+    13: dreizehnter
+    14: vierzehnter
+    15: fünfzehnter
+    16: sechzehnter
+    17: siebzehnter
+    18: achtzehnter
+    19: neunzehnter
+    20: zwanzigster
+    21: ein­und­zwanzigster
+    22: zwei­und­zwanzigster
+    23: drei­und­zwanzigster
+    24: vier­und­zwanzigster
+    25: fünf­und­zwanzigster
+    26: sechs­und­zwanzigster
+    27: sieben­und­zwanzigster
+    28: acht­und­zwanzigster
+    29: neun­und­zwanzigster
+    30: dreißigster
+    31: ein­und­dreißigster
+    32: zwei­und­dreißigster
+    33: drei­und­dreißigster
+    34: vier­und­dreißigster
+    35: fünf­und­dreißigster
+    36: sechs­und­dreißigster
+    37: sieben­und­dreißigster
+    38: acht­und­dreißigster
+    39: neun­und­dreißigster
+    40: vierzigster
+    41: ein­und­vierzigster
+    42: zwei­und­vierzigster
+    43: drei­und­vierzigster
+    44: vier­und­vierzigster
+    45: fünf­und­vierzigster
+    46: sechs­und­vierzigster
+    47: sieben­und­vierzigster
+    48: acht­und­vierzigster
+    49: neun­und­vierzigster
+    50: fünfzigster
+    51: ein­und­fünfzigster
+    52: zwei­und­fünfzigster
+    53: drei­und­fünfzigster
+    54: vier­und­fünfzigster
+    55: fünf­und­fünfzigster
+    56: sechs­und­fünfzigster
+    57: sieben­und­fünfzigster
+    58: acht­und­fünfzigster
+    59: neun­und­fünfzigster
+    60: sechzigster
+    61: ein­und­sechzigster
+    62: zwei­und­sechzigster
+    63: drei­und­sechzigster
+    64: vier­und­sechzigster
+    65: fünf­und­sechzigster
+    66: sechs­und­sechzigster
+    67: sieben­und­sechzigster
+    68: acht­und­sechzigster
+    69: neun­und­sechzigster
+    70: siebzigster
+    71: ein­und­siebzigster
+    72: zwei­und­siebzigster
+    73: drei­und­siebzigster
+    74: vier­und­siebzigster
+    75: fünf­und­siebzigster
+    76: sechs­und­siebzigster
+    77: sieben­und­siebzigster
+    78: acht­und­siebzigster
+    79: neun­und­siebzigster
+    80: achtzigster
+    81: ein­und­achtzigster
+    82: zwei­und­achtzigster
+    83: drei­und­achtzigster
+    84: vier­und­achtzigster
+    85: fünf­und­achtzigster
+    86: sechs­und­achtzigster
+    87: sieben­und­achtzigster
+    88: acht­und­achtzigster
+    89: neun­und­achtzigster
+    90: neunzigster
+    91: ein­und­neunzigster
+    92: zwei­und­neunzigster
+    93: drei­und­neunzigster
+    94: vier­und­neunzigster
+    95: fünf­und­neunzigster
+    96: sechs­und­neunzigster
+    97: sieben­und­neunzigster
+    98: acht­und­neunzigster
+    99: neun­und­neunzigster
+    100: ein­hundertster
+    321: drei­hundert­ein­und­zwanzigster
+    322: drei­hundert­zwei­und­zwanzigster
+    323: drei­hundert­drei­und­zwanzigster
+    1141: ein­tausend­ein­hundert­ein­und­vierzigster
+    1142: ein­tausend­ein­hundert­zwei­und­vierzigster
+    1143: ein­tausend­ein­hundert­drei­und­vierzigster
+    10311: zehn­tausend­drei­hundert­elfter
+    138400: ein­hundert­acht­und­dreißig­tausend­vier­hundertster
+  spellout-ordinal-n:
+    -1141: minus ein­tausend­ein­hundert­ein­und­vierzigsten
+    -1142: minus ein­tausend­ein­hundert­zwei­und­vierzigsten
+    -1143: minus ein­tausend­ein­hundert­drei­und­vierzigsten
+    -100: minus ein­hundertsten
+    -75: minus fünf­und­siebzigsten
+    -50: minus fünfzigsten
+    -24: minus vier­und­zwanzigsten
+    0: nullten
+    1: ersten
+    2: zweiten
+    3: dritten
+    4: vierten
+    5: fünften
+    6: sechsten
+    7: siebten
+    8: achten
+    9: neunten
+    10: zehnten
+    11: elften
+    12: zwölften
+    13: dreizehnten
+    14: vierzehnten
+    15: fünfzehnten
+    16: sechzehnten
+    17: siebzehnten
+    18: achtzehnten
+    19: neunzehnten
+    20: zwanzigsten
+    21: ein­und­zwanzigsten
+    22: zwei­und­zwanzigsten
+    23: drei­und­zwanzigsten
+    24: vier­und­zwanzigsten
+    25: fünf­und­zwanzigsten
+    26: sechs­und­zwanzigsten
+    27: sieben­und­zwanzigsten
+    28: acht­und­zwanzigsten
+    29: neun­und­zwanzigsten
+    30: dreißigsten
+    31: ein­und­dreißigsten
+    32: zwei­und­dreißigsten
+    33: drei­und­dreißigsten
+    34: vier­und­dreißigsten
+    35: fünf­und­dreißigsten
+    36: sechs­und­dreißigsten
+    37: sieben­und­dreißigsten
+    38: acht­und­dreißigsten
+    39: neun­und­dreißigsten
+    40: vierzigsten
+    41: ein­und­vierzigsten
+    42: zwei­und­vierzigsten
+    43: drei­und­vierzigsten
+    44: vier­und­vierzigsten
+    45: fünf­und­vierzigsten
+    46: sechs­und­vierzigsten
+    47: sieben­und­vierzigsten
+    48: acht­und­vierzigsten
+    49: neun­und­vierzigsten
+    50: fünfzigsten
+    51: ein­und­fünfzigsten
+    52: zwei­und­fünfzigsten
+    53: drei­und­fünfzigsten
+    54: vier­und­fünfzigsten
+    55: fünf­und­fünfzigsten
+    56: sechs­und­fünfzigsten
+    57: sieben­und­fünfzigsten
+    58: acht­und­fünfzigsten
+    59: neun­und­fünfzigsten
+    60: sechzigsten
+    61: ein­und­sechzigsten
+    62: zwei­und­sechzigsten
+    63: drei­und­sechzigsten
+    64: vier­und­sechzigsten
+    65: fünf­und­sechzigsten
+    66: sechs­und­sechzigsten
+    67: sieben­und­sechzigsten
+    68: acht­und­sechzigsten
+    69: neun­und­sechzigsten
+    70: siebzigsten
+    71: ein­und­siebzigsten
+    72: zwei­und­siebzigsten
+    73: drei­und­siebzigsten
+    74: vier­und­siebzigsten
+    75: fünf­und­siebzigsten
+    76: sechs­und­siebzigsten
+    77: sieben­und­siebzigsten
+    78: acht­und­siebzigsten
+    79: neun­und­siebzigsten
+    80: achtzigsten
+    81: ein­und­achtzigsten
+    82: zwei­und­achtzigsten
+    83: drei­und­achtzigsten
+    84: vier­und­achtzigsten
+    85: fünf­und­achtzigsten
+    86: sechs­und­achtzigsten
+    87: sieben­und­achtzigsten
+    88: acht­und­achtzigsten
+    89: neun­und­achtzigsten
+    90: neunzigsten
+    91: ein­und­neunzigsten
+    92: zwei­und­neunzigsten
+    93: drei­und­neunzigsten
+    94: vier­und­neunzigsten
+    95: fünf­und­neunzigsten
+    96: sechs­und­neunzigsten
+    97: sieben­und­neunzigsten
+    98: acht­und­neunzigsten
+    99: neun­und­neunzigsten
+    100: ein­hundertsten
+    321: drei­hundert­ein­und­zwanzigsten
+    322: drei­hundert­zwei­und­zwanzigsten
+    323: drei­hundert­drei­und­zwanzigsten
+    1141: ein­tausend­ein­hundert­ein­und­vierzigsten
+    1142: ein­tausend­ein­hundert­zwei­und­vierzigsten
+    1143: ein­tausend­ein­hundert­drei­und­vierzigsten
+    10311: zehn­tausend­drei­hundert­elften
+    138400: ein­hundert­acht­und­dreißig­tausend­vier­hundertsten
+  spellout-ordinal:
+    -1141: minus ein­tausend­ein­hundert­ein­und­vierzigste
+    -1142: minus ein­tausend­ein­hundert­zwei­und­vierzigste
+    -1143: minus ein­tausend­ein­hundert­drei­und­vierzigste
+    -100: minus ein­hundertste
+    -75: minus fünf­und­siebzigste
+    -50: minus fünfzigste
+    -24: minus vier­und­zwanzigste
+    0: nullte
+    1: erste
+    2: zweite
+    3: dritte
+    4: vierte
+    5: fünfte
+    6: sechste
+    7: siebte
+    8: achte
+    9: neunte
+    10: zehnte
+    11: elfte
+    12: zwölfte
+    13: dreizehnte
+    14: vierzehnte
+    15: fünfzehnte
+    16: sechzehnte
+    17: siebzehnte
+    18: achtzehnte
+    19: neunzehnte
+    20: zwanzigste
+    21: ein­und­zwanzigste
+    22: zwei­und­zwanzigste
+    23: drei­und­zwanzigste
+    24: vier­und­zwanzigste
+    25: fünf­und­zwanzigste
+    26: sechs­und­zwanzigste
+    27: sieben­und­zwanzigste
+    28: acht­und­zwanzigste
+    29: neun­und­zwanzigste
+    30: dreißigste
+    31: ein­und­dreißigste
+    32: zwei­und­dreißigste
+    33: drei­und­dreißigste
+    34: vier­und­dreißigste
+    35: fünf­und­dreißigste
+    36: sechs­und­dreißigste
+    37: sieben­und­dreißigste
+    38: acht­und­dreißigste
+    39: neun­und­dreißigste
+    40: vierzigste
+    41: ein­und­vierzigste
+    42: zwei­und­vierzigste
+    43: drei­und­vierzigste
+    44: vier­und­vierzigste
+    45: fünf­und­vierzigste
+    46: sechs­und­vierzigste
+    47: sieben­und­vierzigste
+    48: acht­und­vierzigste
+    49: neun­und­vierzigste
+    50: fünfzigste
+    51: ein­und­fünfzigste
+    52: zwei­und­fünfzigste
+    53: drei­und­fünfzigste
+    54: vier­und­fünfzigste
+    55: fünf­und­fünfzigste
+    56: sechs­und­fünfzigste
+    57: sieben­und­fünfzigste
+    58: acht­und­fünfzigste
+    59: neun­und­fünfzigste
+    60: sechzigste
+    61: ein­und­sechzigste
+    62: zwei­und­sechzigste
+    63: drei­und­sechzigste
+    64: vier­und­sechzigste
+    65: fünf­und­sechzigste
+    66: sechs­und­sechzigste
+    67: sieben­und­sechzigste
+    68: acht­und­sechzigste
+    69: neun­und­sechzigste
+    70: siebzigste
+    71: ein­und­siebzigste
+    72: zwei­und­siebzigste
+    73: drei­und­siebzigste
+    74: vier­und­siebzigste
+    75: fünf­und­siebzigste
+    76: sechs­und­siebzigste
+    77: sieben­und­siebzigste
+    78: acht­und­siebzigste
+    79: neun­und­siebzigste
+    80: achtzigste
+    81: ein­und­achtzigste
+    82: zwei­und­achtzigste
+    83: drei­und­achtzigste
+    84: vier­und­achtzigste
+    85: fünf­und­achtzigste
+    86: sechs­und­achtzigste
+    87: sieben­und­achtzigste
+    88: acht­und­achtzigste
+    89: neun­und­achtzigste
+    90: neunzigste
+    91: ein­und­neunzigste
+    92: zwei­und­neunzigste
+    93: drei­und­neunzigste
+    94: vier­und­neunzigste
+    95: fünf­und­neunzigste
+    96: sechs­und­neunzigste
+    97: sieben­und­neunzigste
+    98: acht­und­neunzigste
+    99: neun­und­neunzigste
+    100: ein­hundertste
+    321: drei­hundert­ein­und­zwanzigste
+    322: drei­hundert­zwei­und­zwanzigste
+    323: drei­hundert­drei­und­zwanzigste
+    1141: ein­tausend­ein­hundert­ein­und­vierzigste
+    1142: ein­tausend­ein­hundert­zwei­und­vierzigste
+    1143: ein­tausend­ein­hundert­drei­und­vierzigste
+    10311: zehn­tausend­drei­hundert­elfte
+    138400: ein­hundert­acht­und­dreißig­tausend­vier­hundertste
+  spellout-cardinal-s:
+    -1141: minus ein­tausend­ein­hundert­ein­und­vierzig
+    -1142: minus ein­tausend­ein­hundert­zwei­und­vierzig
+    -1143: minus ein­tausend­ein­hundert­drei­und­vierzig
+    -100: minus ein­hundert
+    -75: minus fünf­und­siebzig
+    -50: minus fünfzig
+    -24: minus vier­und­zwanzig
+    0: 'null'
+    1: eines
+    2: zwei
+    3: drei
+    4: vier
+    5: fünf
+    6: sechs
+    7: sieben
+    8: acht
+    9: neun
+    10: zehn
+    11: elf
+    12: zwölf
+    13: dreizehn
+    14: vierzehn
+    15: fünfzehn
+    16: sechzehn
+    17: siebzehn
+    18: achtzehn
+    19: neunzehn
+    20: zwanzig
+    21: ein­und­zwanzig
+    22: zwei­und­zwanzig
+    23: drei­und­zwanzig
+    24: vier­und­zwanzig
+    25: fünf­und­zwanzig
+    26: sechs­und­zwanzig
+    27: sieben­und­zwanzig
+    28: acht­und­zwanzig
+    29: neun­und­zwanzig
+    30: dreißig
+    31: ein­und­dreißig
+    32: zwei­und­dreißig
+    33: drei­und­dreißig
+    34: vier­und­dreißig
+    35: fünf­und­dreißig
+    36: sechs­und­dreißig
+    37: sieben­und­dreißig
+    38: acht­und­dreißig
+    39: neun­und­dreißig
+    40: vierzig
+    41: ein­und­vierzig
+    42: zwei­und­vierzig
+    43: drei­und­vierzig
+    44: vier­und­vierzig
+    45: fünf­und­vierzig
+    46: sechs­und­vierzig
+    47: sieben­und­vierzig
+    48: acht­und­vierzig
+    49: neun­und­vierzig
+    50: fünfzig
+    51: ein­und­fünfzig
+    52: zwei­und­fünfzig
+    53: drei­und­fünfzig
+    54: vier­und­fünfzig
+    55: fünf­und­fünfzig
+    56: sechs­und­fünfzig
+    57: sieben­und­fünfzig
+    58: acht­und­fünfzig
+    59: neun­und­fünfzig
+    60: sechzig
+    61: ein­und­sechzig
+    62: zwei­und­sechzig
+    63: drei­und­sechzig
+    64: vier­und­sechzig
+    65: fünf­und­sechzig
+    66: sechs­und­sechzig
+    67: sieben­und­sechzig
+    68: acht­und­sechzig
+    69: neun­und­sechzig
+    70: siebzig
+    71: ein­und­siebzig
+    72: zwei­und­siebzig
+    73: drei­und­siebzig
+    74: vier­und­siebzig
+    75: fünf­und­siebzig
+    76: sechs­und­siebzig
+    77: sieben­und­siebzig
+    78: acht­und­siebzig
+    79: neun­und­siebzig
+    80: achtzig
+    81: ein­und­achtzig
+    82: zwei­und­achtzig
+    83: drei­und­achtzig
+    84: vier­und­achtzig
+    85: fünf­und­achtzig
+    86: sechs­und­achtzig
+    87: sieben­und­achtzig
+    88: acht­und­achtzig
+    89: neun­und­achtzig
+    90: neunzig
+    91: ein­und­neunzig
+    92: zwei­und­neunzig
+    93: drei­und­neunzig
+    94: vier­und­neunzig
+    95: fünf­und­neunzig
+    96: sechs­und­neunzig
+    97: sieben­und­neunzig
+    98: acht­und­neunzig
+    99: neun­und­neunzig
+    100: ein­hundert
+    321: drei­hundert­ein­und­zwanzig
+    322: drei­hundert­zwei­und­zwanzig
+    323: drei­hundert­drei­und­zwanzig
+    1141: ein­tausend­ein­hundert­ein­und­vierzig
+    1142: ein­tausend­ein­hundert­zwei­und­vierzig
+    1143: ein­tausend­ein­hundert­drei­und­vierzig
+    10311: zehn­tausend­drei­hundert­elf
+    138400: ein­hundert­acht­und­dreißig­tausend­vier­hundert
+  spellout-cardinal-r:
+    -1141: minus ein­tausend­ein­hundert­ein­und­vierzig
+    -1142: minus ein­tausend­ein­hundert­zwei­und­vierzig
+    -1143: minus ein­tausend­ein­hundert­drei­und­vierzig
+    -100: minus ein­hundert
+    -75: minus fünf­und­siebzig
+    -50: minus fünfzig
+    -24: minus vier­und­zwanzig
+    0: 'null'
+    1: einer
+    2: zwei
+    3: drei
+    4: vier
+    5: fünf
+    6: sechs
+    7: sieben
+    8: acht
+    9: neun
+    10: zehn
+    11: elf
+    12: zwölf
+    13: dreizehn
+    14: vierzehn
+    15: fünfzehn
+    16: sechzehn
+    17: siebzehn
+    18: achtzehn
+    19: neunzehn
+    20: zwanzig
+    21: ein­und­zwanzig
+    22: zwei­und­zwanzig
+    23: drei­und­zwanzig
+    24: vier­und­zwanzig
+    25: fünf­und­zwanzig
+    26: sechs­und­zwanzig
+    27: sieben­und­zwanzig
+    28: acht­und­zwanzig
+    29: neun­und­zwanzig
+    30: dreißig
+    31: ein­und­dreißig
+    32: zwei­und­dreißig
+    33: drei­und­dreißig
+    34: vier­und­dreißig
+    35: fünf­und­dreißig
+    36: sechs­und­dreißig
+    37: sieben­und­dreißig
+    38: acht­und­dreißig
+    39: neun­und­dreißig
+    40: vierzig
+    41: ein­und­vierzig
+    42: zwei­und­vierzig
+    43: drei­und­vierzig
+    44: vier­und­vierzig
+    45: fünf­und­vierzig
+    46: sechs­und­vierzig
+    47: sieben­und­vierzig
+    48: acht­und­vierzig
+    49: neun­und­vierzig
+    50: fünfzig
+    51: ein­und­fünfzig
+    52: zwei­und­fünfzig
+    53: drei­und­fünfzig
+    54: vier­und­fünfzig
+    55: fünf­und­fünfzig
+    56: sechs­und­fünfzig
+    57: sieben­und­fünfzig
+    58: acht­und­fünfzig
+    59: neun­und­fünfzig
+    60: sechzig
+    61: ein­und­sechzig
+    62: zwei­und­sechzig
+    63: drei­und­sechzig
+    64: vier­und­sechzig
+    65: fünf­und­sechzig
+    66: sechs­und­sechzig
+    67: sieben­und­sechzig
+    68: acht­und­sechzig
+    69: neun­und­sechzig
+    70: siebzig
+    71: ein­und­siebzig
+    72: zwei­und­siebzig
+    73: drei­und­siebzig
+    74: vier­und­siebzig
+    75: fünf­und­siebzig
+    76: sechs­und­siebzig
+    77: sieben­und­siebzig
+    78: acht­und­siebzig
+    79: neun­und­siebzig
+    80: achtzig
+    81: ein­und­achtzig
+    82: zwei­und­achtzig
+    83: drei­und­achtzig
+    84: vier­und­achtzig
+    85: fünf­und­achtzig
+    86: sechs­und­achtzig
+    87: sieben­und­achtzig
+    88: acht­und­achtzig
+    89: neun­und­achtzig
+    90: neunzig
+    91: ein­und­neunzig
+    92: zwei­und­neunzig
+    93: drei­und­neunzig
+    94: vier­und­neunzig
+    95: fünf­und­neunzig
+    96: sechs­und­neunzig
+    97: sieben­und­neunzig
+    98: acht­und­neunzig
+    99: neun­und­neunzig
+    100: ein­hundert
+    321: drei­hundert­ein­und­zwanzig
+    322: drei­hundert­zwei­und­zwanzig
+    323: drei­hundert­drei­und­zwanzig
+    1141: ein­tausend­ein­hundert­ein­und­vierzig
+    1142: ein­tausend­ein­hundert­zwei­und­vierzig
+    1143: ein­tausend­ein­hundert­drei­und­vierzig
+    10311: zehn­tausend­drei­hundert­elf
+    138400: ein­hundert­acht­und­dreißig­tausend­vier­hundert
+  spellout-cardinal-n:
+    -1141: minus ein­tausend­ein­hundert­ein­und­vierzig
+    -1142: minus ein­tausend­ein­hundert­zwei­und­vierzig
+    -1143: minus ein­tausend­ein­hundert­drei­und­vierzig
+    -100: minus ein­hundert
+    -75: minus fünf­und­siebzig
+    -50: minus fünfzig
+    -24: minus vier­und­zwanzig
+    0: 'null'
+    1: einen
+    2: zwei
+    3: drei
+    4: vier
+    5: fünf
+    6: sechs
+    7: sieben
+    8: acht
+    9: neun
+    10: zehn
+    11: elf
+    12: zwölf
+    13: dreizehn
+    14: vierzehn
+    15: fünfzehn
+    16: sechzehn
+    17: siebzehn
+    18: achtzehn
+    19: neunzehn
+    20: zwanzig
+    21: ein­und­zwanzig
+    22: zwei­und­zwanzig
+    23: drei­und­zwanzig
+    24: vier­und­zwanzig
+    25: fünf­und­zwanzig
+    26: sechs­und­zwanzig
+    27: sieben­und­zwanzig
+    28: acht­und­zwanzig
+    29: neun­und­zwanzig
+    30: dreißig
+    31: ein­und­dreißig
+    32: zwei­und­dreißig
+    33: drei­und­dreißig
+    34: vier­und­dreißig
+    35: fünf­und­dreißig
+    36: sechs­und­dreißig
+    37: sieben­und­dreißig
+    38: acht­und­dreißig
+    39: neun­und­dreißig
+    40: vierzig
+    41: ein­und­vierzig
+    42: zwei­und­vierzig
+    43: drei­und­vierzig
+    44: vier­und­vierzig
+    45: fünf­und­vierzig
+    46: sechs­und­vierzig
+    47: sieben­und­vierzig
+    48: acht­und­vierzig
+    49: neun­und­vierzig
+    50: fünfzig
+    51: ein­und­fünfzig
+    52: zwei­und­fünfzig
+    53: drei­und­fünfzig
+    54: vier­und­fünfzig
+    55: fünf­und­fünfzig
+    56: sechs­und­fünfzig
+    57: sieben­und­fünfzig
+    58: acht­und­fünfzig
+    59: neun­und­fünfzig
+    60: sechzig
+    61: ein­und­sechzig
+    62: zwei­und­sechzig
+    63: drei­und­sechzig
+    64: vier­und­sechzig
+    65: fünf­und­sechzig
+    66: sechs­und­sechzig
+    67: sieben­und­sechzig
+    68: acht­und­sechzig
+    69: neun­und­sechzig
+    70: siebzig
+    71: ein­und­siebzig
+    72: zwei­und­siebzig
+    73: drei­und­siebzig
+    74: vier­und­siebzig
+    75: fünf­und­siebzig
+    76: sechs­und­siebzig
+    77: sieben­und­siebzig
+    78: acht­und­siebzig
+    79: neun­und­siebzig
+    80: achtzig
+    81: ein­und­achtzig
+    82: zwei­und­achtzig
+    83: drei­und­achtzig
+    84: vier­und­achtzig
+    85: fünf­und­achtzig
+    86: sechs­und­achtzig
+    87: sieben­und­achtzig
+    88: acht­und­achtzig
+    89: neun­und­achtzig
+    90: neunzig
+    91: ein­und­neunzig
+    92: zwei­und­neunzig
+    93: drei­und­neunzig
+    94: vier­und­neunzig
+    95: fünf­und­neunzig
+    96: sechs­und­neunzig
+    97: sieben­und­neunzig
+    98: acht­und­neunzig
+    99: neun­und­neunzig
+    100: ein­hundert
+    321: drei­hundert­ein­und­zwanzig
+    322: drei­hundert­zwei­und­zwanzig
+    323: drei­hundert­drei­und­zwanzig
+    1141: ein­tausend­ein­hundert­ein­und­vierzig
+    1142: ein­tausend­ein­hundert­zwei­und­vierzig
+    1143: ein­tausend­ein­hundert­drei­und­vierzig
+    10311: zehn­tausend­drei­hundert­elf
+    138400: ein­hundert­acht­und­dreißig­tausend­vier­hundert
   spellout-cardinal-feminine:
-    -1141: menos mil ciento cuarenta y una
-    -1142: menos mil ciento cuarenta y dos
-    -1143: menos mil ciento cuarenta y tres
-    -100: menos cien
-    -75: menos setenta y cinco
-    -50: menos cincuenta
-    -24: menos veinticuatro
-    0: cero
-    1: una
-    2: dos
-    3: tres
-    4: cuatro
-    5: cinco
-    6: seis
-    7: siete
-    8: ocho
-    9: nueve
-    10: diez
-    11: once
-    12: doce
-    13: trece
-    14: catorce
-    15: quince
-    16: dieciséis
-    17: diecisiete
-    18: dieciocho
-    19: diecinueve
-    20: veinte
-    21: veintiuna
-    22: veintidós
-    23: veintitrés
-    24: veinticuatro
-    25: veinticinco
-    26: veintiséis
-    27: veintisiete
-    28: veintiocho
-    29: veintinueve
-    30: treinta
-    31: treinta y una
-    32: treinta y dos
-    33: treinta y tres
-    34: treinta y cuatro
-    35: treinta y cinco
-    36: treinta y seis
-    37: treinta y siete
-    38: treinta y ocho
-    39: treinta y nueve
-    40: cuarenta
-    41: cuarenta y una
-    42: cuarenta y dos
-    43: cuarenta y tres
-    44: cuarenta y cuatro
-    45: cuarenta y cinco
-    46: cuarenta y seis
-    47: cuarenta y siete
-    48: cuarenta y ocho
-    49: cuarenta y nueve
-    50: cincuenta
-    51: cincuenta y una
-    52: cincuenta y dos
-    53: cincuenta y tres
-    54: cincuenta y cuatro
-    55: cincuenta y cinco
-    56: cincuenta y seis
-    57: cincuenta y siete
-    58: cincuenta y ocho
-    59: cincuenta y nueve
-    60: sesenta
-    61: sesenta y una
-    62: sesenta y dos
-    63: sesenta y tres
-    64: sesenta y cuatro
-    65: sesenta y cinco
-    66: sesenta y seis
-    67: sesenta y siete
-    68: sesenta y ocho
-    69: sesenta y nueve
-    70: setenta
-    71: setenta y una
-    72: setenta y dos
-    73: setenta y tres
-    74: setenta y cuatro
-    75: setenta y cinco
-    76: setenta y seis
-    77: setenta y siete
-    78: setenta y ocho
-    79: setenta y nueve
-    80: ochenta
-    81: ochenta y una
-    82: ochenta y dos
-    83: ochenta y tres
-    84: ochenta y cuatro
-    85: ochenta y cinco
-    86: ochenta y seis
-    87: ochenta y siete
-    88: ochenta y ocho
-    89: ochenta y nueve
-    90: noventa
-    91: noventa y una
-    92: noventa y dos
-    93: noventa y tres
-    94: noventa y cuatro
-    95: noventa y cinco
-    96: noventa y seis
-    97: noventa y siete
-    98: noventa y ocho
-    99: noventa y nueve
-    100: cien
-    321: tres­cientas veintiuna
-    322: tres­cientas veintidós
-    323: tres­cientas veintitrés
-    1141: mil ciento cuarenta y una
-    1142: mil ciento cuarenta y dos
-    1143: mil ciento cuarenta y tres
-    10311: diez mil tres­cientas once
-    138400: ciento treinta y ocho mil cuatro­cientas
+    -1141: minus ein­tausend­ein­hundert­ein­und­vierzig
+    -1142: minus ein­tausend­ein­hundert­zwei­und­vierzig
+    -1143: minus ein­tausend­ein­hundert­drei­und­vierzig
+    -100: minus ein­hundert
+    -75: minus fünf­und­siebzig
+    -50: minus fünfzig
+    -24: minus vier­und­zwanzig
+    0: 'null'
+    1: eine
+    2: zwei
+    3: drei
+    4: vier
+    5: fünf
+    6: sechs
+    7: sieben
+    8: acht
+    9: neun
+    10: zehn
+    11: elf
+    12: zwölf
+    13: dreizehn
+    14: vierzehn
+    15: fünfzehn
+    16: sechzehn
+    17: siebzehn
+    18: achtzehn
+    19: neunzehn
+    20: zwanzig
+    21: ein­und­zwanzig
+    22: zwei­und­zwanzig
+    23: drei­und­zwanzig
+    24: vier­und­zwanzig
+    25: fünf­und­zwanzig
+    26: sechs­und­zwanzig
+    27: sieben­und­zwanzig
+    28: acht­und­zwanzig
+    29: neun­und­zwanzig
+    30: dreißig
+    31: ein­und­dreißig
+    32: zwei­und­dreißig
+    33: drei­und­dreißig
+    34: vier­und­dreißig
+    35: fünf­und­dreißig
+    36: sechs­und­dreißig
+    37: sieben­und­dreißig
+    38: acht­und­dreißig
+    39: neun­und­dreißig
+    40: vierzig
+    41: ein­und­vierzig
+    42: zwei­und­vierzig
+    43: drei­und­vierzig
+    44: vier­und­vierzig
+    45: fünf­und­vierzig
+    46: sechs­und­vierzig
+    47: sieben­und­vierzig
+    48: acht­und­vierzig
+    49: neun­und­vierzig
+    50: fünfzig
+    51: ein­und­fünfzig
+    52: zwei­und­fünfzig
+    53: drei­und­fünfzig
+    54: vier­und­fünfzig
+    55: fünf­und­fünfzig
+    56: sechs­und­fünfzig
+    57: sieben­und­fünfzig
+    58: acht­und­fünfzig
+    59: neun­und­fünfzig
+    60: sechzig
+    61: ein­und­sechzig
+    62: zwei­und­sechzig
+    63: drei­und­sechzig
+    64: vier­und­sechzig
+    65: fünf­und­sechzig
+    66: sechs­und­sechzig
+    67: sieben­und­sechzig
+    68: acht­und­sechzig
+    69: neun­und­sechzig
+    70: siebzig
+    71: ein­und­siebzig
+    72: zwei­und­siebzig
+    73: drei­und­siebzig
+    74: vier­und­siebzig
+    75: fünf­und­siebzig
+    76: sechs­und­siebzig
+    77: sieben­und­siebzig
+    78: acht­und­siebzig
+    79: neun­und­siebzig
+    80: achtzig
+    81: ein­und­achtzig
+    82: zwei­und­achtzig
+    83: drei­und­achtzig
+    84: vier­und­achtzig
+    85: fünf­und­achtzig
+    86: sechs­und­achtzig
+    87: sieben­und­achtzig
+    88: acht­und­achtzig
+    89: neun­und­achtzig
+    90: neunzig
+    91: ein­und­neunzig
+    92: zwei­und­neunzig
+    93: drei­und­neunzig
+    94: vier­und­neunzig
+    95: fünf­und­neunzig
+    96: sechs­und­neunzig
+    97: sieben­und­neunzig
+    98: acht­und­neunzig
+    99: neun­und­neunzig
+    100: ein­hundert
+    321: drei­hundert­ein­und­zwanzig
+    322: drei­hundert­zwei­und­zwanzig
+    323: drei­hundert­drei­und­zwanzig
+    1141: ein­tausend­ein­hundert­ein­und­vierzig
+    1142: ein­tausend­ein­hundert­zwei­und­vierzig
+    1143: ein­tausend­ein­hundert­drei­und­vierzig
+    10311: zehn­tausend­drei­hundert­elf
+    138400: ein­hundert­acht­und­dreißig­tausend­vier­hundert
   spellout-cardinal-masculine:
-    -1141: menos mil ciento cuarenta y un
-    -1142: menos mil ciento cuarenta y dos
-    -1143: menos mil ciento cuarenta y tres
-    -100: menos cien
-    -75: menos setenta y cinco
-    -50: menos cincuenta
-    -24: menos veinticuatro
-    0: cero
-    1: un
-    2: dos
-    3: tres
-    4: cuatro
-    5: cinco
-    6: seis
-    7: siete
-    8: ocho
-    9: nueve
-    10: diez
-    11: once
-    12: doce
-    13: trece
-    14: catorce
-    15: quince
-    16: dieciséis
-    17: diecisiete
-    18: dieciocho
-    19: diecinueve
-    20: veinte
-    21: veintiún
-    22: veintidós
-    23: veintitrés
-    24: veinticuatro
-    25: veinticinco
-    26: veintiséis
-    27: veintisiete
-    28: veintiocho
-    29: veintinueve
-    30: treinta
-    31: treinta y un
-    32: treinta y dos
-    33: treinta y tres
-    34: treinta y cuatro
-    35: treinta y cinco
-    36: treinta y seis
-    37: treinta y siete
-    38: treinta y ocho
-    39: treinta y nueve
-    40: cuarenta
-    41: cuarenta y un
-    42: cuarenta y dos
-    43: cuarenta y tres
-    44: cuarenta y cuatro
-    45: cuarenta y cinco
-    46: cuarenta y seis
-    47: cuarenta y siete
-    48: cuarenta y ocho
-    49: cuarenta y nueve
-    50: cincuenta
-    51: cincuenta y un
-    52: cincuenta y dos
-    53: cincuenta y tres
-    54: cincuenta y cuatro
-    55: cincuenta y cinco
-    56: cincuenta y seis
-    57: cincuenta y siete
-    58: cincuenta y ocho
-    59: cincuenta y nueve
-    60: sesenta
-    61: sesenta y un
-    62: sesenta y dos
-    63: sesenta y tres
-    64: sesenta y cuatro
-    65: sesenta y cinco
-    66: sesenta y seis
-    67: sesenta y siete
-    68: sesenta y ocho
-    69: sesenta y nueve
-    70: setenta
-    71: setenta y un
-    72: setenta y dos
-    73: setenta y tres
-    74: setenta y cuatro
-    75: setenta y cinco
-    76: setenta y seis
-    77: setenta y siete
-    78: setenta y ocho
-    79: setenta y nueve
-    80: ochenta
-    81: ochenta y un
-    82: ochenta y dos
-    83: ochenta y tres
-    84: ochenta y cuatro
-    85: ochenta y cinco
-    86: ochenta y seis
-    87: ochenta y siete
-    88: ochenta y ocho
-    89: ochenta y nueve
-    90: noventa
-    91: noventa y un
-    92: noventa y dos
-    93: noventa y tres
-    94: noventa y cuatro
-    95: noventa y cinco
-    96: noventa y seis
-    97: noventa y siete
-    98: noventa y ocho
-    99: noventa y nueve
-    100: cien
-    321: trescientos veintiún
-    322: trescientos veintidós
-    323: trescientos veintitrés
-    1141: mil ciento cuarenta y un
-    1142: mil ciento cuarenta y dos
-    1143: mil ciento cuarenta y tres
-    10311: diez mil trescientos once
-    138400: ciento treinta y ocho mil cuatrocientos
+    -1141: minus ein­tausend­ein­hundert­ein­und­vierzig
+    -1142: minus ein­tausend­ein­hundert­zwei­und­vierzig
+    -1143: minus ein­tausend­ein­hundert­drei­und­vierzig
+    -100: minus ein­hundert
+    -75: minus fünf­und­siebzig
+    -50: minus fünfzig
+    -24: minus vier­und­zwanzig
+    0: 'null'
+    1: ein
+    2: zwei
+    3: drei
+    4: vier
+    5: fünf
+    6: sechs
+    7: sieben
+    8: acht
+    9: neun
+    10: zehn
+    11: elf
+    12: zwölf
+    13: dreizehn
+    14: vierzehn
+    15: fünfzehn
+    16: sechzehn
+    17: siebzehn
+    18: achtzehn
+    19: neunzehn
+    20: zwanzig
+    21: ein­und­zwanzig
+    22: zwei­und­zwanzig
+    23: drei­und­zwanzig
+    24: vier­und­zwanzig
+    25: fünf­und­zwanzig
+    26: sechs­und­zwanzig
+    27: sieben­und­zwanzig
+    28: acht­und­zwanzig
+    29: neun­und­zwanzig
+    30: dreißig
+    31: ein­und­dreißig
+    32: zwei­und­dreißig
+    33: drei­und­dreißig
+    34: vier­und­dreißig
+    35: fünf­und­dreißig
+    36: sechs­und­dreißig
+    37: sieben­und­dreißig
+    38: acht­und­dreißig
+    39: neun­und­dreißig
+    40: vierzig
+    41: ein­und­vierzig
+    42: zwei­und­vierzig
+    43: drei­und­vierzig
+    44: vier­und­vierzig
+    45: fünf­und­vierzig
+    46: sechs­und­vierzig
+    47: sieben­und­vierzig
+    48: acht­und­vierzig
+    49: neun­und­vierzig
+    50: fünfzig
+    51: ein­und­fünfzig
+    52: zwei­und­fünfzig
+    53: drei­und­fünfzig
+    54: vier­und­fünfzig
+    55: fünf­und­fünfzig
+    56: sechs­und­fünfzig
+    57: sieben­und­fünfzig
+    58: acht­und­fünfzig
+    59: neun­und­fünfzig
+    60: sechzig
+    61: ein­und­sechzig
+    62: zwei­und­sechzig
+    63: drei­und­sechzig
+    64: vier­und­sechzig
+    65: fünf­und­sechzig
+    66: sechs­und­sechzig
+    67: sieben­und­sechzig
+    68: acht­und­sechzig
+    69: neun­und­sechzig
+    70: siebzig
+    71: ein­und­siebzig
+    72: zwei­und­siebzig
+    73: drei­und­siebzig
+    74: vier­und­siebzig
+    75: fünf­und­siebzig
+    76: sechs­und­siebzig
+    77: sieben­und­siebzig
+    78: acht­und­siebzig
+    79: neun­und­siebzig
+    80: achtzig
+    81: ein­und­achtzig
+    82: zwei­und­achtzig
+    83: drei­und­achtzig
+    84: vier­und­achtzig
+    85: fünf­und­achtzig
+    86: sechs­und­achtzig
+    87: sieben­und­achtzig
+    88: acht­und­achtzig
+    89: neun­und­achtzig
+    90: neunzig
+    91: ein­und­neunzig
+    92: zwei­und­neunzig
+    93: drei­und­neunzig
+    94: vier­und­neunzig
+    95: fünf­und­neunzig
+    96: sechs­und­neunzig
+    97: sieben­und­neunzig
+    98: acht­und­neunzig
+    99: neun­und­neunzig
+    100: ein­hundert
+    321: drei­hundert­ein­und­zwanzig
+    322: drei­hundert­zwei­und­zwanzig
+    323: drei­hundert­drei­und­zwanzig
+    1141: ein­tausend­ein­hundert­ein­und­vierzig
+    1142: ein­tausend­ein­hundert­zwei­und­vierzig
+    1143: ein­tausend­ein­hundert­drei­und­vierzig
+    10311: zehn­tausend­drei­hundert­elf
+    138400: ein­hundert­acht­und­dreißig­tausend­vier­hundert
+  spellout-cardinal-neuter:
+    -1141: minus ein­tausend­ein­hundert­ein­und­vierzig
+    -1142: minus ein­tausend­ein­hundert­zwei­und­vierzig
+    -1143: minus ein­tausend­ein­hundert­drei­und­vierzig
+    -100: minus ein­hundert
+    -75: minus fünf­und­siebzig
+    -50: minus fünfzig
+    -24: minus vier­und­zwanzig
+    0: 'null'
+    1: ein
+    2: zwei
+    3: drei
+    4: vier
+    5: fünf
+    6: sechs
+    7: sieben
+    8: acht
+    9: neun
+    10: zehn
+    11: elf
+    12: zwölf
+    13: dreizehn
+    14: vierzehn
+    15: fünfzehn
+    16: sechzehn
+    17: siebzehn
+    18: achtzehn
+    19: neunzehn
+    20: zwanzig
+    21: ein­und­zwanzig
+    22: zwei­und­zwanzig
+    23: drei­und­zwanzig
+    24: vier­und­zwanzig
+    25: fünf­und­zwanzig
+    26: sechs­und­zwanzig
+    27: sieben­und­zwanzig
+    28: acht­und­zwanzig
+    29: neun­und­zwanzig
+    30: dreißig
+    31: ein­und­dreißig
+    32: zwei­und­dreißig
+    33: drei­und­dreißig
+    34: vier­und­dreißig
+    35: fünf­und­dreißig
+    36: sechs­und­dreißig
+    37: sieben­und­dreißig
+    38: acht­und­dreißig
+    39: neun­und­dreißig
+    40: vierzig
+    41: ein­und­vierzig
+    42: zwei­und­vierzig
+    43: drei­und­vierzig
+    44: vier­und­vierzig
+    45: fünf­und­vierzig
+    46: sechs­und­vierzig
+    47: sieben­und­vierzig
+    48: acht­und­vierzig
+    49: neun­und­vierzig
+    50: fünfzig
+    51: ein­und­fünfzig
+    52: zwei­und­fünfzig
+    53: drei­und­fünfzig
+    54: vier­und­fünfzig
+    55: fünf­und­fünfzig
+    56: sechs­und­fünfzig
+    57: sieben­und­fünfzig
+    58: acht­und­fünfzig
+    59: neun­und­fünfzig
+    60: sechzig
+    61: ein­und­sechzig
+    62: zwei­und­sechzig
+    63: drei­und­sechzig
+    64: vier­und­sechzig
+    65: fünf­und­sechzig
+    66: sechs­und­sechzig
+    67: sieben­und­sechzig
+    68: acht­und­sechzig
+    69: neun­und­sechzig
+    70: siebzig
+    71: ein­und­siebzig
+    72: zwei­und­siebzig
+    73: drei­und­siebzig
+    74: vier­und­siebzig
+    75: fünf­und­siebzig
+    76: sechs­und­siebzig
+    77: sieben­und­siebzig
+    78: acht­und­siebzig
+    79: neun­und­siebzig
+    80: achtzig
+    81: ein­und­achtzig
+    82: zwei­und­achtzig
+    83: drei­und­achtzig
+    84: vier­und­achtzig
+    85: fünf­und­achtzig
+    86: sechs­und­achtzig
+    87: sieben­und­achtzig
+    88: acht­und­achtzig
+    89: neun­und­achtzig
+    90: neunzig
+    91: ein­und­neunzig
+    92: zwei­und­neunzig
+    93: drei­und­neunzig
+    94: vier­und­neunzig
+    95: fünf­und­neunzig
+    96: sechs­und­neunzig
+    97: sieben­und­neunzig
+    98: acht­und­neunzig
+    99: neun­und­neunzig
+    100: ein­hundert
+    321: drei­hundert­ein­und­zwanzig
+    322: drei­hundert­zwei­und­zwanzig
+    323: drei­hundert­drei­und­zwanzig
+    1141: ein­tausend­ein­hundert­ein­und­vierzig
+    1142: ein­tausend­ein­hundert­zwei­und­vierzig
+    1143: ein­tausend­ein­hundert­drei­und­vierzig
+    10311: zehn­tausend­drei­hundert­elf
+    138400: ein­hundert­acht­und­dreißig­tausend­vier­hundert
   spellout-numbering:
-    -1141: menos mil ciento cuarenta y uno
-    -1142: menos mil ciento cuarenta y dos
-    -1143: menos mil ciento cuarenta y tres
-    -100: menos cien
-    -75: menos setenta y cinco
-    -50: menos cincuenta
-    -24: menos veinticuatro
-    0: cero
-    1: uno
-    2: dos
-    3: tres
-    4: cuatro
-    5: cinco
-    6: seis
-    7: siete
-    8: ocho
-    9: nueve
-    10: diez
-    11: once
-    12: doce
-    13: trece
-    14: catorce
-    15: quince
-    16: dieciséis
-    17: diecisiete
-    18: dieciocho
-    19: diecinueve
-    20: veinte
-    21: veintiuno
-    22: veintidós
-    23: veintitrés
-    24: veinticuatro
-    25: veinticinco
-    26: veintiséis
-    27: veintisiete
-    28: veintiocho
-    29: veintinueve
-    30: treinta
-    31: treinta y uno
-    32: treinta y dos
-    33: treinta y tres
-    34: treinta y cuatro
-    35: treinta y cinco
-    36: treinta y seis
-    37: treinta y siete
-    38: treinta y ocho
-    39: treinta y nueve
-    40: cuarenta
-    41: cuarenta y uno
-    42: cuarenta y dos
-    43: cuarenta y tres
-    44: cuarenta y cuatro
-    45: cuarenta y cinco
-    46: cuarenta y seis
-    47: cuarenta y siete
-    48: cuarenta y ocho
-    49: cuarenta y nueve
-    50: cincuenta
-    51: cincuenta y uno
-    52: cincuenta y dos
-    53: cincuenta y tres
-    54: cincuenta y cuatro
-    55: cincuenta y cinco
-    56: cincuenta y seis
-    57: cincuenta y siete
-    58: cincuenta y ocho
-    59: cincuenta y nueve
-    60: sesenta
-    61: sesenta y uno
-    62: sesenta y dos
-    63: sesenta y tres
-    64: sesenta y cuatro
-    65: sesenta y cinco
-    66: sesenta y seis
-    67: sesenta y siete
-    68: sesenta y ocho
-    69: sesenta y nueve
-    70: setenta
-    71: setenta y uno
-    72: setenta y dos
-    73: setenta y tres
-    74: setenta y cuatro
-    75: setenta y cinco
-    76: setenta y seis
-    77: setenta y siete
-    78: setenta y ocho
-    79: setenta y nueve
-    80: ochenta
-    81: ochenta y uno
-    82: ochenta y dos
-    83: ochenta y tres
-    84: ochenta y cuatro
-    85: ochenta y cinco
-    86: ochenta y seis
-    87: ochenta y siete
-    88: ochenta y ocho
-    89: ochenta y nueve
-    90: noventa
-    91: noventa y uno
-    92: noventa y dos
-    93: noventa y tres
-    94: noventa y cuatro
-    95: noventa y cinco
-    96: noventa y seis
-    97: noventa y siete
-    98: noventa y ocho
-    99: noventa y nueve
-    100: cien
-    321: trescientos veintiuno
-    322: trescientos veintidós
-    323: trescientos veintitrés
-    1141: mil ciento cuarenta y uno
-    1142: mil ciento cuarenta y dos
-    1143: mil ciento cuarenta y tres
-    10311: diez mil trescientos once
-    138400: ciento treinta y ocho mil cuatrocientos
+    -1141: minus ein­tausend­ein­hundert­ein­und­vierzig
+    -1142: minus ein­tausend­ein­hundert­zwei­und­vierzig
+    -1143: minus ein­tausend­ein­hundert­drei­und­vierzig
+    -100: minus ein­hundert
+    -75: minus fünf­und­siebzig
+    -50: minus fünfzig
+    -24: minus vier­und­zwanzig
+    0: 'null'
+    1: eins
+    2: zwei
+    3: drei
+    4: vier
+    5: fünf
+    6: sechs
+    7: sieben
+    8: acht
+    9: neun
+    10: zehn
+    11: elf
+    12: zwölf
+    13: dreizehn
+    14: vierzehn
+    15: fünfzehn
+    16: sechzehn
+    17: siebzehn
+    18: achtzehn
+    19: neunzehn
+    20: zwanzig
+    21: ein­und­zwanzig
+    22: zwei­und­zwanzig
+    23: drei­und­zwanzig
+    24: vier­und­zwanzig
+    25: fünf­und­zwanzig
+    26: sechs­und­zwanzig
+    27: sieben­und­zwanzig
+    28: acht­und­zwanzig
+    29: neun­und­zwanzig
+    30: dreißig
+    31: ein­und­dreißig
+    32: zwei­und­dreißig
+    33: drei­und­dreißig
+    34: vier­und­dreißig
+    35: fünf­und­dreißig
+    36: sechs­und­dreißig
+    37: sieben­und­dreißig
+    38: acht­und­dreißig
+    39: neun­und­dreißig
+    40: vierzig
+    41: ein­und­vierzig
+    42: zwei­und­vierzig
+    43: drei­und­vierzig
+    44: vier­und­vierzig
+    45: fünf­und­vierzig
+    46: sechs­und­vierzig
+    47: sieben­und­vierzig
+    48: acht­und­vierzig
+    49: neun­und­vierzig
+    50: fünfzig
+    51: ein­und­fünfzig
+    52: zwei­und­fünfzig
+    53: drei­und­fünfzig
+    54: vier­und­fünfzig
+    55: fünf­und­fünfzig
+    56: sechs­und­fünfzig
+    57: sieben­und­fünfzig
+    58: acht­und­fünfzig
+    59: neun­und­fünfzig
+    60: sechzig
+    61: ein­und­sechzig
+    62: zwei­und­sechzig
+    63: drei­und­sechzig
+    64: vier­und­sechzig
+    65: fünf­und­sechzig
+    66: sechs­und­sechzig
+    67: sieben­und­sechzig
+    68: acht­und­sechzig
+    69: neun­und­sechzig
+    70: siebzig
+    71: ein­und­siebzig
+    72: zwei­und­siebzig
+    73: drei­und­siebzig
+    74: vier­und­siebzig
+    75: fünf­und­siebzig
+    76: sechs­und­siebzig
+    77: sieben­und­siebzig
+    78: acht­und­siebzig
+    79: neun­und­siebzig
+    80: achtzig
+    81: ein­und­achtzig
+    82: zwei­und­achtzig
+    83: drei­und­achtzig
+    84: vier­und­achtzig
+    85: fünf­und­achtzig
+    86: sechs­und­achtzig
+    87: sieben­und­achtzig
+    88: acht­und­achtzig
+    89: neun­und­achtzig
+    90: neunzig
+    91: ein­und­neunzig
+    92: zwei­und­neunzig
+    93: drei­und­neunzig
+    94: vier­und­neunzig
+    95: fünf­und­neunzig
+    96: sechs­und­neunzig
+    97: sieben­und­neunzig
+    98: acht­und­neunzig
+    99: neun­und­neunzig
+    100: ein­hundert
+    321: drei­hundert­ein­und­zwanzig
+    322: drei­hundert­zwei­und­zwanzig
+    323: drei­hundert­drei­und­zwanzig
+    1141: ein­tausend­ein­hundert­ein­und­vierzig
+    1142: ein­tausend­ein­hundert­zwei­und­vierzig
+    1143: ein­tausend­ein­hundert­drei­und­vierzig
+    10311: zehn­tausend­drei­hundert­elf
+    138400: ein­hundert­acht­und­dreißig­tausend­vier­hundert
   spellout-numbering-year:
-    -1141: menos mil ciento cuarenta y uno
-    -1142: menos mil ciento cuarenta y dos
-    -1143: menos mil ciento cuarenta y tres
-    -100: menos cien
-    -75: menos setenta y cinco
-    -50: menos cincuenta
-    -24: menos veinticuatro
-    0: cero
-    1: uno
-    2: dos
-    3: tres
-    4: cuatro
-    5: cinco
-    6: seis
-    7: siete
-    8: ocho
-    9: nueve
-    10: diez
-    11: once
-    12: doce
-    13: trece
-    14: catorce
-    15: quince
-    16: dieciséis
-    17: diecisiete
-    18: dieciocho
-    19: diecinueve
-    20: veinte
-    21: veintiuno
-    22: veintidós
-    23: veintitrés
-    24: veinticuatro
-    25: veinticinco
-    26: veintiséis
-    27: veintisiete
-    28: veintiocho
-    29: veintinueve
-    30: treinta
-    31: treinta y uno
-    32: treinta y dos
-    33: treinta y tres
-    34: treinta y cuatro
-    35: treinta y cinco
-    36: treinta y seis
-    37: treinta y siete
-    38: treinta y ocho
-    39: treinta y nueve
-    40: cuarenta
-    41: cuarenta y uno
-    42: cuarenta y dos
-    43: cuarenta y tres
-    44: cuarenta y cuatro
-    45: cuarenta y cinco
-    46: cuarenta y seis
-    47: cuarenta y siete
-    48: cuarenta y ocho
-    49: cuarenta y nueve
-    50: cincuenta
-    51: cincuenta y uno
-    52: cincuenta y dos
-    53: cincuenta y tres
-    54: cincuenta y cuatro
-    55: cincuenta y cinco
-    56: cincuenta y seis
-    57: cincuenta y siete
-    58: cincuenta y ocho
-    59: cincuenta y nueve
-    60: sesenta
-    61: sesenta y uno
-    62: sesenta y dos
-    63: sesenta y tres
-    64: sesenta y cuatro
-    65: sesenta y cinco
-    66: sesenta y seis
-    67: sesenta y siete
-    68: sesenta y ocho
-    69: sesenta y nueve
-    70: setenta
-    71: setenta y uno
-    72: setenta y dos
-    73: setenta y tres
-    74: setenta y cuatro
-    75: setenta y cinco
-    76: setenta y seis
-    77: setenta y siete
-    78: setenta y ocho
-    79: setenta y nueve
-    80: ochenta
-    81: ochenta y uno
-    82: ochenta y dos
-    83: ochenta y tres
-    84: ochenta y cuatro
-    85: ochenta y cinco
-    86: ochenta y seis
-    87: ochenta y siete
-    88: ochenta y ocho
-    89: ochenta y nueve
-    90: noventa
-    91: noventa y uno
-    92: noventa y dos
-    93: noventa y tres
-    94: noventa y cuatro
-    95: noventa y cinco
-    96: noventa y seis
-    97: noventa y siete
-    98: noventa y ocho
-    99: noventa y nueve
-    100: cien
-    321: trescientos veintiuno
-    322: trescientos veintidós
-    323: trescientos veintitrés
-    1141: mil ciento cuarenta y uno
-    1142: mil ciento cuarenta y dos
-    1143: mil ciento cuarenta y tres
-    10311: diez mil trescientos once
-    138400: ciento treinta y ocho mil cuatrocientos
+    -1141: minus elf­hundert­ein­und­vierzig
+    -1142: minus elf­hundert­zwei­und­vierzig
+    -1143: minus elf­hundert­drei­und­vierzig
+    -100: minus ein­hundert
+    -75: minus fünf­und­siebzig
+    -50: minus fünfzig
+    -24: minus vier­und­zwanzig
+    0: 'null'
+    1: eins
+    2: zwei
+    3: drei
+    4: vier
+    5: fünf
+    6: sechs
+    7: sieben
+    8: acht
+    9: neun
+    10: zehn
+    11: elf
+    12: zwölf
+    13: dreizehn
+    14: vierzehn
+    15: fünfzehn
+    16: sechzehn
+    17: siebzehn
+    18: achtzehn
+    19: neunzehn
+    20: zwanzig
+    21: ein­und­zwanzig
+    22: zwei­und­zwanzig
+    23: drei­und­zwanzig
+    24: vier­und­zwanzig
+    25: fünf­und­zwanzig
+    26: sechs­und­zwanzig
+    27: sieben­und­zwanzig
+    28: acht­und­zwanzig
+    29: neun­und­zwanzig
+    30: dreißig
+    31: ein­und­dreißig
+    32: zwei­und­dreißig
+    33: drei­und­dreißig
+    34: vier­und­dreißig
+    35: fünf­und­dreißig
+    36: sechs­und­dreißig
+    37: sieben­und­dreißig
+    38: acht­und­dreißig
+    39: neun­und­dreißig
+    40: vierzig
+    41: ein­und­vierzig
+    42: zwei­und­vierzig
+    43: drei­und­vierzig
+    44: vier­und­vierzig
+    45: fünf­und­vierzig
+    46: sechs­und­vierzig
+    47: sieben­und­vierzig
+    48: acht­und­vierzig
+    49: neun­und­vierzig
+    50: fünfzig
+    51: ein­und­fünfzig
+    52: zwei­und­fünfzig
+    53: drei­und­fünfzig
+    54: vier­und­fünfzig
+    55: fünf­und­fünfzig
+    56: sechs­und­fünfzig
+    57: sieben­und­fünfzig
+    58: acht­und­fünfzig
+    59: neun­und­fünfzig
+    60: sechzig
+    61: ein­und­sechzig
+    62: zwei­und­sechzig
+    63: drei­und­sechzig
+    64: vier­und­sechzig
+    65: fünf­und­sechzig
+    66: sechs­und­sechzig
+    67: sieben­und­sechzig
+    68: acht­und­sechzig
+    69: neun­und­sechzig
+    70: siebzig
+    71: ein­und­siebzig
+    72: zwei­und­siebzig
+    73: drei­und­siebzig
+    74: vier­und­siebzig
+    75: fünf­und­siebzig
+    76: sechs­und­siebzig
+    77: sieben­und­siebzig
+    78: acht­und­siebzig
+    79: neun­und­siebzig
+    80: achtzig
+    81: ein­und­achtzig
+    82: zwei­und­achtzig
+    83: drei­und­achtzig
+    84: vier­und­achtzig
+    85: fünf­und­achtzig
+    86: sechs­und­achtzig
+    87: sieben­und­achtzig
+    88: acht­und­achtzig
+    89: neun­und­achtzig
+    90: neunzig
+    91: ein­und­neunzig
+    92: zwei­und­neunzig
+    93: drei­und­neunzig
+    94: vier­und­neunzig
+    95: fünf­und­neunzig
+    96: sechs­und­neunzig
+    97: sieben­und­neunzig
+    98: acht­und­neunzig
+    99: neun­und­neunzig
+    100: ein­hundert
+    321: drei­hundert­ein­und­zwanzig
+    322: drei­hundert­zwei­und­zwanzig
+    323: drei­hundert­drei­und­zwanzig
+    1141: elf­hundert­ein­und­vierzig
+    1142: elf­hundert­zwei­und­vierzig
+    1143: elf­hundert­drei­und­vierzig
+    10311: zehn­tausend­drei­hundert­elf
+    138400: ein­hundert­acht­und­dreißig­tausend­vier­hundert
 OrdinalRules:
   digits-ordinal:
-    -1141: "−1.141.º"
-    -1142: "−1.142.º"
-    -1143: "−1.143.º"
-    -100: "−100.º"
-    -75: "−75.º"
-    -50: "−50.º"
-    -24: "−24.º"
-    0: 0.º
-    1: 1.º
-    2: 2.º
-    3: 3.º
-    4: 4.º
-    5: 5.º
-    6: 6.º
-    7: 7.º
-    8: 8.º
-    9: 9.º
-    10: 10.º
-    11: 11.º
-    12: 12.º
-    13: 13.º
-    14: 14.º
-    15: 15.º
-    16: 16.º
-    17: 17.º
-    18: 18.º
-    19: 19.º
-    20: 20.º
-    21: 21.º
-    22: 22.º
-    23: 23.º
-    24: 24.º
-    25: 25.º
-    26: 26.º
-    27: 27.º
-    28: 28.º
-    29: 29.º
-    30: 30.º
-    31: 31.º
-    32: 32.º
-    33: 33.º
-    34: 34.º
-    35: 35.º
-    36: 36.º
-    37: 37.º
-    38: 38.º
-    39: 39.º
-    40: 40.º
-    41: 41.º
-    42: 42.º
-    43: 43.º
-    44: 44.º
-    45: 45.º
-    46: 46.º
-    47: 47.º
-    48: 48.º
-    49: 49.º
-    50: 50.º
-    51: 51.º
-    52: 52.º
-    53: 53.º
-    54: 54.º
-    55: 55.º
-    56: 56.º
-    57: 57.º
-    58: 58.º
-    59: 59.º
-    60: 60.º
-    61: 61.º
-    62: 62.º
-    63: 63.º
-    64: 64.º
-    65: 65.º
-    66: 66.º
-    67: 67.º
-    68: 68.º
-    69: 69.º
-    70: 70.º
-    71: 71.º
-    72: 72.º
-    73: 73.º
-    74: 74.º
-    75: 75.º
-    76: 76.º
-    77: 77.º
-    78: 78.º
-    79: 79.º
-    80: 80.º
-    81: 81.º
-    82: 82.º
-    83: 83.º
-    84: 84.º
-    85: 85.º
-    86: 86.º
-    87: 87.º
-    88: 88.º
-    89: 89.º
-    90: 90.º
-    91: 91.º
-    92: 92.º
-    93: 93.º
-    94: 94.º
-    95: 95.º
-    96: 96.º
-    97: 97.º
-    98: 98.º
-    99: 99.º
-    100: 100.º
-    321: 321.º
-    322: 322.º
-    323: 323.º
-    1141: 1.141.º
-    1142: 1.142.º
-    1143: 1.143.º
-    10311: 10.311.º
-    138400: 138.400.º
-  digits-ordinal-feminine:
-    -1141: "−1.141.ª"
-    -1142: "−1.142.ª"
-    -1143: "−1.143.ª"
-    -100: "−100.ª"
-    -75: "−75.ª"
-    -50: "−50.ª"
-    -24: "−24.ª"
-    0: 0.ª
-    1: 1.ª
-    2: 2.ª
-    3: 3.ª
-    4: 4.ª
-    5: 5.ª
-    6: 6.ª
-    7: 7.ª
-    8: 8.ª
-    9: 9.ª
-    10: 10.ª
-    11: 11.ª
-    12: 12.ª
-    13: 13.ª
-    14: 14.ª
-    15: 15.ª
-    16: 16.ª
-    17: 17.ª
-    18: 18.ª
-    19: 19.ª
-    20: 20.ª
-    21: 21.ª
-    22: 22.ª
-    23: 23.ª
-    24: 24.ª
-    25: 25.ª
-    26: 26.ª
-    27: 27.ª
-    28: 28.ª
-    29: 29.ª
-    30: 30.ª
-    31: 31.ª
-    32: 32.ª
-    33: 33.ª
-    34: 34.ª
-    35: 35.ª
-    36: 36.ª
-    37: 37.ª
-    38: 38.ª
-    39: 39.ª
-    40: 40.ª
-    41: 41.ª
-    42: 42.ª
-    43: 43.ª
-    44: 44.ª
-    45: 45.ª
-    46: 46.ª
-    47: 47.ª
-    48: 48.ª
-    49: 49.ª
-    50: 50.ª
-    51: 51.ª
-    52: 52.ª
-    53: 53.ª
-    54: 54.ª
-    55: 55.ª
-    56: 56.ª
-    57: 57.ª
-    58: 58.ª
-    59: 59.ª
-    60: 60.ª
-    61: 61.ª
-    62: 62.ª
-    63: 63.ª
-    64: 64.ª
-    65: 65.ª
-    66: 66.ª
-    67: 67.ª
-    68: 68.ª
-    69: 69.ª
-    70: 70.ª
-    71: 71.ª
-    72: 72.ª
-    73: 73.ª
-    74: 74.ª
-    75: 75.ª
-    76: 76.ª
-    77: 77.ª
-    78: 78.ª
-    79: 79.ª
-    80: 80.ª
-    81: 81.ª
-    82: 82.ª
-    83: 83.ª
-    84: 84.ª
-    85: 85.ª
-    86: 86.ª
-    87: 87.ª
-    88: 88.ª
-    89: 89.ª
-    90: 90.ª
-    91: 91.ª
-    92: 92.ª
-    93: 93.ª
-    94: 94.ª
-    95: 95.ª
-    96: 96.ª
-    97: 97.ª
-    98: 98.ª
-    99: 99.ª
-    100: 100.ª
-    321: 321.ª
-    322: 322.ª
-    323: 323.ª
-    1141: 1.141.ª
-    1142: 1.142.ª
-    1143: 1.143.ª
-    10311: 10.311.ª
-    138400: 138.400.ª
-  digits-ordinal-masculine:
-    -1141: "−1.141.º"
-    -1142: "−1.142.º"
-    -1143: "−1.143.º"
-    -100: "−100.º"
-    -75: "−75.º"
-    -50: "−50.º"
-    -24: "−24.º"
-    0: 0.º
-    1: 1.º
-    2: 2.º
-    3: 3.º
-    4: 4.º
-    5: 5.º
-    6: 6.º
-    7: 7.º
-    8: 8.º
-    9: 9.º
-    10: 10.º
-    11: 11.º
-    12: 12.º
-    13: 13.º
-    14: 14.º
-    15: 15.º
-    16: 16.º
-    17: 17.º
-    18: 18.º
-    19: 19.º
-    20: 20.º
-    21: 21.º
-    22: 22.º
-    23: 23.º
-    24: 24.º
-    25: 25.º
-    26: 26.º
-    27: 27.º
-    28: 28.º
-    29: 29.º
-    30: 30.º
-    31: 31.º
-    32: 32.º
-    33: 33.º
-    34: 34.º
-    35: 35.º
-    36: 36.º
-    37: 37.º
-    38: 38.º
-    39: 39.º
-    40: 40.º
-    41: 41.º
-    42: 42.º
-    43: 43.º
-    44: 44.º
-    45: 45.º
-    46: 46.º
-    47: 47.º
-    48: 48.º
-    49: 49.º
-    50: 50.º
-    51: 51.º
-    52: 52.º
-    53: 53.º
-    54: 54.º
-    55: 55.º
-    56: 56.º
-    57: 57.º
-    58: 58.º
-    59: 59.º
-    60: 60.º
-    61: 61.º
-    62: 62.º
-    63: 63.º
-    64: 64.º
-    65: 65.º
-    66: 66.º
-    67: 67.º
-    68: 68.º
-    69: 69.º
-    70: 70.º
-    71: 71.º
-    72: 72.º
-    73: 73.º
-    74: 74.º
-    75: 75.º
-    76: 76.º
-    77: 77.º
-    78: 78.º
-    79: 79.º
-    80: 80.º
-    81: 81.º
-    82: 82.º
-    83: 83.º
-    84: 84.º
-    85: 85.º
-    86: 86.º
-    87: 87.º
-    88: 88.º
-    89: 89.º
-    90: 90.º
-    91: 91.º
-    92: 92.º
-    93: 93.º
-    94: 94.º
-    95: 95.º
-    96: 96.º
-    97: 97.º
-    98: 98.º
-    99: 99.º
-    100: 100.º
-    321: 321.º
-    322: 322.º
-    323: 323.º
-    1141: 1.141.º
-    1142: 1.142.º
-    1143: 1.143.º
-    10311: 10.311.º
-    138400: 138.400.º
-  digits-ordinal-masculine-adjective:
-    -1141: "−1.141.ᵉʳ"
-    -1142: "−1.142.º"
-    -1143: "−1.143.ᵉʳ"
-    -100: "−100.º"
-    -75: "−75.º"
-    -50: "−50.º"
-    -24: "−24.º"
-    0: 0.º
-    1: 1.ᵉʳ
-    2: 2.º
-    3: 3.ᵉʳ
-    4: 4.º
-    5: 5.º
-    6: 6.º
-    7: 7.º
-    8: 8.º
-    9: 9.º
-    10: 10.º
-    11: 11.º
-    12: 12.º
-    13: 13.º
-    14: 14.º
-    15: 15.º
-    16: 16.º
-    17: 17.º
-    18: 18.º
-    19: 19.º
-    20: 20.º
-    21: 21.ᵉʳ
-    22: 22.º
-    23: 23.ᵉʳ
-    24: 24.º
-    25: 25.º
-    26: 26.º
-    27: 27.º
-    28: 28.º
-    29: 29.º
-    30: 30.º
-    31: 31.ᵉʳ
-    32: 32.º
-    33: 33.ᵉʳ
-    34: 34.º
-    35: 35.º
-    36: 36.º
-    37: 37.º
-    38: 38.º
-    39: 39.º
-    40: 40.º
-    41: 41.ᵉʳ
-    42: 42.º
-    43: 43.ᵉʳ
-    44: 44.º
-    45: 45.º
-    46: 46.º
-    47: 47.º
-    48: 48.º
-    49: 49.º
-    50: 50.º
-    51: 51.ᵉʳ
-    52: 52.º
-    53: 53.ᵉʳ
-    54: 54.º
-    55: 55.º
-    56: 56.º
-    57: 57.º
-    58: 58.º
-    59: 59.º
-    60: 60.º
-    61: 61.ᵉʳ
-    62: 62.º
-    63: 63.ᵉʳ
-    64: 64.º
-    65: 65.º
-    66: 66.º
-    67: 67.º
-    68: 68.º
-    69: 69.º
-    70: 70.º
-    71: 71.ᵉʳ
-    72: 72.º
-    73: 73.ᵉʳ
-    74: 74.º
-    75: 75.º
-    76: 76.º
-    77: 77.º
-    78: 78.º
-    79: 79.º
-    80: 80.º
-    81: 81.ᵉʳ
-    82: 82.º
-    83: 83.ᵉʳ
-    84: 84.º
-    85: 85.º
-    86: 86.º
-    87: 87.º
-    88: 88.º
-    89: 89.º
-    90: 90.º
-    91: 91.ᵉʳ
-    92: 92.º
-    93: 93.ᵉʳ
-    94: 94.º
-    95: 95.º
-    96: 96.º
-    97: 97.º
-    98: 98.º
-    99: 99.º
-    100: 100.º
-    321: 321.ᵉʳ
-    322: 322.º
-    323: 323.ᵉʳ
-    1141: 1.141.ᵉʳ
-    1142: 1.142.º
-    1143: 1.143.ᵉʳ
-    10311: 10.311.º
-    138400: 138.400.º
+    -1141: −1.141.
+    -1142: −1.142.
+    -1143: −1.143.
+    -100: −100.
+    -75: −75.
+    -50: −50.
+    -24: −24.
+    0: '0.'
+    1: '1.'
+    2: '2.'
+    3: '3.'
+    4: '4.'
+    5: '5.'
+    6: '6.'
+    7: '7.'
+    8: '8.'
+    9: '9.'
+    10: '10.'
+    11: '11.'
+    12: '12.'
+    13: '13.'
+    14: '14.'
+    15: '15.'
+    16: '16.'
+    17: '17.'
+    18: '18.'
+    19: '19.'
+    20: '20.'
+    21: '21.'
+    22: '22.'
+    23: '23.'
+    24: '24.'
+    25: '25.'
+    26: '26.'
+    27: '27.'
+    28: '28.'
+    29: '29.'
+    30: '30.'
+    31: '31.'
+    32: '32.'
+    33: '33.'
+    34: '34.'
+    35: '35.'
+    36: '36.'
+    37: '37.'
+    38: '38.'
+    39: '39.'
+    40: '40.'
+    41: '41.'
+    42: '42.'
+    43: '43.'
+    44: '44.'
+    45: '45.'
+    46: '46.'
+    47: '47.'
+    48: '48.'
+    49: '49.'
+    50: '50.'
+    51: '51.'
+    52: '52.'
+    53: '53.'
+    54: '54.'
+    55: '55.'
+    56: '56.'
+    57: '57.'
+    58: '58.'
+    59: '59.'
+    60: '60.'
+    61: '61.'
+    62: '62.'
+    63: '63.'
+    64: '64.'
+    65: '65.'
+    66: '66.'
+    67: '67.'
+    68: '68.'
+    69: '69.'
+    70: '70.'
+    71: '71.'
+    72: '72.'
+    73: '73.'
+    74: '74.'
+    75: '75.'
+    76: '76.'
+    77: '77.'
+    78: '78.'
+    79: '79.'
+    80: '80.'
+    81: '81.'
+    82: '82.'
+    83: '83.'
+    84: '84.'
+    85: '85.'
+    86: '86.'
+    87: '87.'
+    88: '88.'
+    89: '89.'
+    90: '90.'
+    91: '91.'
+    92: '92.'
+    93: '93.'
+    94: '94.'
+    95: '95.'
+    96: '96.'
+    97: '97.'
+    98: '98.'
+    99: '99.'
+    100: '100.'
+    321: '321.'
+    322: '322.'
+    323: '323.'
+    1141: 1.141.
+    1142: 1.142.
+    1143: 1.143.
+    10311: 10.311.
+    138400: 138.400.
 DurationRules:
   duration:
-    -1141: "-1.141"
-    -1142: "-1.142"
-    -1143: "-1.143"
-    -100: "-100"
-    -75: "-75"
-    -50: "-50"
-    -24: "-24"
+    -1141: '-1.141'
+    -1142: '-1.142'
+    -1143: '-1.143'
+    -100: '-100'
+    -75: '-75'
+    -50: '-50'
+    -24: '-24'
     0: '0'
     1: '1'
     2: '2'

@@ -82,7 +82,7 @@ module TwitterCldr
           add_buddhist_calendar(component, locale, path)
           process_plurals(component, locale, path)
           downcase_territory_codes(component, locale, path)
-          deep_symbolize(component, locale, path)
+          deep_symbolize(path)
           locales.add(locale)
           STDOUT.write "\r#{locale}, #{locales.size} of #{TwitterCldr.supported_locales.size} total"
         end
